@@ -1,0 +1,15 @@
+C:\Learnings\C#\Quiz\DotnetQuiz\bin\Debug\net6.0\DotnetQuiz.exe
+C:\Learnings\C#\Quiz\DotnetQuiz\bin\Debug\net6.0\DotnetQuiz.deps.json
+C:\Learnings\C#\Quiz\DotnetQuiz\bin\Debug\net6.0\DotnetQuiz.runtimeconfig.json
+C:\Learnings\C#\Quiz\DotnetQuiz\bin\Debug\net6.0\DotnetQuiz.dll
+C:\Learnings\C#\Quiz\DotnetQuiz\bin\Debug\net6.0\DotnetQuiz.pdb
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\DotnetQuiz.csproj.AssemblyReference.cache
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\DotnetQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\DotnetQuiz.AssemblyInfoInputs.cache
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\DotnetQuiz.AssemblyInfo.cs
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\DotnetQuiz.csproj.CoreCompileInputs.cache
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\DotnetQuiz.dll
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\refint\DotnetQuiz.dll
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\DotnetQuiz.pdb
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\DotnetQuiz.genruntimeconfig.cache
+C:\Learnings\C#\Quiz\DotnetQuiz\obj\Debug\net6.0\ref\DotnetQuiz.dll
